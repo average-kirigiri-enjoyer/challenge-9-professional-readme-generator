@@ -18,11 +18,6 @@ View my ***[PROJECT]*** here;
 
 ***[LINK TO VIDEO DEMO]***
 
-## Credits
-
-reset.css file (./assets/css/reset.css);
-https://meyerweb.com/eric/tools/css/reset/
-
 ## License
 
 Operates under a standard MIT license, refer to the LICENSE file in the repository for more information.
