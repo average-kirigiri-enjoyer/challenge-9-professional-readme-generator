@@ -20,8 +20,8 @@ View my ***[PROJECT]*** here;
 
 ## Credits
 
-reset.css file (./assets/css/reset.css);
-https://meyerweb.com/eric/tools/css/reset/
+license badge templates & links (./utils/generateMarkdown.js, lines )
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 ## License
 
