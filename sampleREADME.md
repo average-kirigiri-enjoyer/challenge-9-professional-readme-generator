@@ -1,9 +1,9 @@
 
-    # title
+    # undefined
 
     ## Description
 
-    desc
+    undefined
 
     ## Table of Contents
 
@@ -16,25 +16,25 @@
 
     ## Installation
 
-    a
+    undefined
 
     ## Usage
 
-    a
+    undefined
 
     ## License
 
-    Operates under the following license; Apache License 2.0. See the LICENSE file the the repository for more information
+    Operates under the following license; undefined. See the LICENSE file the the repository for more information
 
     ## Contributing
 
-    a
+    undefined
 
     ## Tests
 
-    a
+    undefined
 
     ## Questions
 
-    If you have any questions, please contact me at a, and I will get back to you as soon as I can. Additionally, my GitHub account can be found at https://github.com/
+    If you have any questions, please contact me at undefined, and I will get back to you as soon as I can. Additionally, my GitHub account can be found at https://github.com/
   

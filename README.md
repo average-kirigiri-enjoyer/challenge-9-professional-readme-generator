@@ -18,6 +18,11 @@ View my ***[PROJECT]*** here;
 
 ***[LINK TO VIDEO DEMO]***
 
+## Credits
+
+license badge templates & links (./utils/generateMarkdown.js, lines )
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
 ## License
 
 Operates under a standard MIT license, refer to the LICENSE file in the repository for more information.
