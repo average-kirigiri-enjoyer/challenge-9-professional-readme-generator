@@ -43,7 +43,7 @@ function generateMarkdown(data)
     }
 
     //constructs license section content as per the user's choice of license
-    licenseSection = `Operates under the following license; ${licenseType}. Refer to the following link for more information; ${licenseLink}.`;
+    licenseSection = `Operates under the following license; ${licenseType}. Refer to the following link for more information; ${licenseLink}`;
   }
 
 //constructs & returns the README data based on the user's input

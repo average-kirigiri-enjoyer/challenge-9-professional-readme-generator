@@ -23,7 +23,7 @@ Run index.js via node in your git bash shell
 
 ## License
 
-Operates under the following license; MIT License. Refer to the following link for more information; https://opensource.org/licenses/MIT.
+Operates under the following license; MIT License. Refer to the following link for more information; https://opensource.org/licenses/MIT
 
 ## Contributing
 
