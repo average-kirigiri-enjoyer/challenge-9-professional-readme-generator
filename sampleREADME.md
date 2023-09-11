@@ -3,7 +3,7 @@
 
     ## Description
 
-    description
+    desc
 
     ## Table of Contents
 
@@ -16,25 +16,25 @@
 
     ## Installation
 
-    installation
+    a
 
     ## Usage
 
-    usage
+    a
 
     ## License
 
-    Operates under the following license; MIT License. See the LICENSE file the the repository for more information
+    Operates under the following license; Apache License 2.0. See the LICENSE file the the repository for more information
+
     ## Contributing
 
-    contribution
+    a
 
     ## Tests
 
-    testing}
+    a
 
     ## Questions
 
-    If you have any questions, please contact me at hertlethan@gmail.com, and I will get back to you as soon as I can.
-    Additionally, my GitHub account can be found at https://github.com/average-kirigiri-enjoyer
-    
+    If you have any questions, please contact me at a, and I will get back to you as soon as I can. Additionally, my GitHub account can be found at https://github.com/
+  
