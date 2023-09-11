@@ -47,8 +47,7 @@ function generateMarkdown(data)
   }
 
 //constructs & returns the README data based on the user's input
-return `${licenseBadge}
-# ${data.title}
+return `# ${data.title} ${licenseBadge}
 
 ## Description
 

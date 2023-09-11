@@ -1,9 +1,8 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Professional README Generator
+# Professional README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Generates a professional README.md file based on user input
+Generates a high-quality, professional README based on user-input
 
 ## Table of Contents
 
@@ -16,11 +15,11 @@ Generates a professional README.md file based on user input
 
 ## Installation
 
-Download the repostiory and run index.js in your git bash shell
+Download the repository to your computer
 
 ## Usage
 
-Run index.js in your git bash shell
+Run index.js via node in your git bash shell
 
 ## License
 
@@ -28,11 +27,11 @@ Operates under the following license; MIT License. Refer to the following link f
 
 ## Contributing
 
-You can't
+Fork the repository, make whatever changes you like, and start a pull request
 
 ## Tests
 
-See if it works
+Run index.js as per the usage instructions, and after responding to all the questions, check that a sampleREADME.md has been successfully generated
 
 ## Questions
 
