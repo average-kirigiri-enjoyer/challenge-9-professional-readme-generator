@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
-
-const { default: inquirer } = require("inquirer");
+const inquirer = require("inquirer");
+const fs = require("fs");
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -52,10 +52,23 @@ const questions = [
 }];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(userInputData)
+{
+  fs.writeFile("./sampleREADME.md", userInputData, function(err)
+  {
+    if (err)
+    {
+      console.log(`Error occurred while trying to create README.md; ${err}`);
+    }
+    else
+    {
+      console.log(`Sample README.md successfully created`);
+    }
+  });
+}
 
 // TODO: Create a function to initialize app
-function init()
+function generateREADME()
 {
   inquirer.prompt(questions)
   .then(function(data)
@@ -69,21 +82,37 @@ function init()
     const license = data.license;
     const username = data.username;
     const email = data.email;
-    
-    console.log(title);
-    console.log(description);
-    console.log(installation);
-    console.log(usage);
-    console.log(contribution);
-    console.log(testing);
-    console.log(license);
-    console.log(username);
-    console.log(email);
 
-    //const name = `Name: ${data.name}`;
-    //const userInputData = name + "\n" + languages + "\n" + communication;
+    const readmeData = 
+    `
+    # ${title}\n
+    ## Description\n
+    ${description}\n
+    ## Table of Contents\n
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Questions](#questions)\n
+    ## Installation\n
+    ${installation}\n
+    ## Usage\n
+    ${usage}\n
+    ## License\n
+    Operates under the following license; ${license}. See the LICENSE file the the repository for more information\n
+    ## Contributing\n
+    ${contribution}\n
+    ## Tests\n
+    ${testing}}\n
+    ## Questions\n
+    If you have any questions, please contact me at ${email}, and I will get back to you as soon as I can.
+    Additionally, my GitHub account can be found at https://github.com/${username}
+    `;
+
+    writeToFile(readmeData);
   });
 }
 
 // Function call to initialize app
-init();
+generateREADME();
