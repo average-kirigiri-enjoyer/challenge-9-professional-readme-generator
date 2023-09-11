@@ -1,40 +1,39 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Professional README Generator
 
-    # undefined
+## Description
 
-    ## Description
+Generates a professional README.md file based on user input
 
-    undefined
+## Table of Contents
 
-    ## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+## Installation
 
-    ## Installation
+Download the repostiory and run index.js in your git bash shell
 
-    undefined
+## Usage
 
-    ## Usage
+Run index.js in your git bash shell
 
-    undefined
+## License
 
-    ## License
+Operates under the following license; MIT License. Refer to the following link for more information; https://opensource.org/licenses/MIT.
 
-    Operates under the following license; undefined. See the LICENSE file the the repository for more information
+## Contributing
 
-    ## Contributing
+You can't
 
-    undefined
+## Tests
 
-    ## Tests
+See if it works
 
-    undefined
+## Questions
 
-    ## Questions
-
-    If you have any questions, please contact me at undefined, and I will get back to you as soon as I can. Additionally, my GitHub account can be found at https://github.com/
-  
+If you have any questions, please contact me at hertlethan@gmail.com, and I will get back to you as soon as I can. Additionally, my GitHub account can be found at https://github.com/average-kirigiri-enjoyer
